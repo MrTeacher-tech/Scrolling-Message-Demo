@@ -98,9 +98,10 @@ This is a full-stack web application built with modern technologies, featuring a
 - **Build Command**: `npm run build`
 - **Start Command**: `npm run start`
 
-## Changelog
+## Recent Changes
 
-- June 23, 2025. Initial setup
+- June 23, 2025: Created minimalist scrolling text app with black text "Can you see this?" scrolling right-to-left on white background
+- June 23, 2025: Initial setup
 
 ## User Preferences
 
