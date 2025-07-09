@@ -64,7 +64,6 @@
   height: 100vh;
   position: relative;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-color: hsl(0, 0%, 100%);
@@ -80,14 +79,6 @@
   animation: scroll-left 8s linear infinite;
   will-change: transform;
   white-space: nowrap;
-}
-
-.scrolling-text:nth-child(1) {
-  top: 40%;
-}
-
-.scrolling-text:nth-child(2) {
-  top: 60%;
 }
 
 @keyframes scroll-left {
