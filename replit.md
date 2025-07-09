@@ -100,6 +100,7 @@ This is a full-stack web application built with modern technologies, featuring a
 
 ## Recent Changes
 
+- July 9, 2025: Customized scrolling message for Client A business - changed text to "Welcome to Client A - Your Business Partner"
 - June 23, 2025: Created minimalist scrolling text app with black text "Can you see this?" scrolling right-to-left on white background
 - June 23, 2025: Initial setup
 
