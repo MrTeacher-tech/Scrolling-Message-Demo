@@ -100,6 +100,7 @@ This is a full-stack web application built with modern technologies, featuring a
 
 ## Recent Changes
 
+- July 9, 2025: Added configuration-based scrolling messages system with separate config file (`client/src/config/scrolling-messages.ts`) to manage multiple scrolling messages with customizable properties like text, animation duration, font size, color, and delay
 - June 23, 2025: Created minimalist scrolling text app with black text "Can you see this?" scrolling right-to-left on white background
 - June 23, 2025: Initial setup
 
